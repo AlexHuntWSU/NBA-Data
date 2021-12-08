@@ -26,4 +26,8 @@ This table shows the difference between the average home game value and the aver
 
 <img src="Boxplots.png" width="850" height="780">
 
+Using a simple correlation test, I found that the offensive rating had a 0.832 correlation coefficient and the defensive rating had a -0.377 correlation coefficient with the win% column. As shown with these regression lines, there is strong evidence that a greater offensive rating is better for winning.
+
+<img src="Offensive Rating Regression.png" width="450" height="430">.   <img src="Defensive Rating Regression.png" width="480" height="430">
+
 
