@@ -16,6 +16,6 @@ Data Sources:
 
 [Away Ratings](https://www.nba.com/stats/teams/advanced/?sort=W&dir=-1&Season=2021-22&SeasonType=Regular%20Season&Location=Road)
 
-![Boxplot](Boxplots)
+![Boxplot](Boxplots.png)
 
 
