@@ -1,0 +1,361 @@
+,Team,variable,value,Location
+1,Phoenix Suns,FreeThrow,81.6,Home
+2,San Antonio Spurs,FreeThrow,77.5,Home
+3,Denver Nuggets,FreeThrow,79.2,Home
+4,Houston Rockets,FreeThrow,73.7,Home
+5,LA Clippers,FreeThrow,83,Home
+6,Washington Wizards,FreeThrow,76.3,Home
+7,Indiana Pacers,FreeThrow,77.8,Home
+8,Portland Trail Blazers,FreeThrow,83.1,Home
+9,Boston Celtics,FreeThrow,79.5,Home
+10,Toronto Raptors,FreeThrow,83,Home
+11,Oklahoma City Thunder,FreeThrow,71.9,Home
+12,Atlanta Hawks,FreeThrow,81.1,Home
+13,Orlando Magic,FreeThrow,77.9,Home
+14,Golden State Warriors,FreeThrow,79.2,Home
+15,Dallas Mavericks,FreeThrow,76.9,Home
+16,Miami Heat,FreeThrow,80.7,Home
+17,Utah Jazz,FreeThrow,81.7,Home
+18,Sacramento Kings,FreeThrow,75.5,Home
+19,Brooklyn Nets,FreeThrow,80.8,Home
+20,Minnesota Timberwolves,FreeThrow,77,Home
+21,Chicago Bulls,FreeThrow,79.5,Home
+22,Memphis Grizzlies,FreeThrow,78.2,Home
+23,Milwaukee Bucks,FreeThrow,73.2,Home
+24,Charlotte Hornets,FreeThrow,75.2,Home
+25,Detriot Pistons,FreeThrow,74.6,Home
+26,Philadelphia 76ers,FreeThrow,76.6,Home
+27,Cleveland Cavaliers,FreeThrow,75.5,Home
+28,Los Angeles Lakers,FreeThrow,74.5,Home
+29,New York Knicks,FreeThrow,79.7,Home
+30,New Orleans Pelicans,FreeThrow,73.3,Home
+31,Phoenix Suns,FreeThrow,85.3,Away
+32,San Antonio Spurs,FreeThrow,80.7,Away
+33,Denver Nuggets,FreeThrow,81.6,Away
+34,Houston Rockets,FreeThrow,74.4,Away
+35,LA Clippers,FreeThrow,84.9,Away
+36,Washington Wizards,FreeThrow,77.5,Away
+37,Indiana Pacers,FreeThrow,80.9,Away
+38,Portland Trail Blazers,FreeThrow,81.5,Away
+39,Boston Celtics,FreeThrow,75.6,Away
+40,Toronto Raptors,FreeThrow,80,Away
+41,Oklahoma City Thunder,FreeThrow,73,Away
+42,Atlanta Hawks,FreeThrow,81.3,Away
+43,Orlando Magic,FreeThrow,77.2,Away
+44,Golden State Warriors,FreeThrow,77.7,Away
+45,Dallas Mavericks,FreeThrow,78.8,Away
+46,Miami Heat,FreeThrow,77.1,Away
+47,Utah Jazz,FreeThrow,77.9,Away
+48,Sacramento Kings,FreeThrow,73.6,Away
+49,Brooklyn Nets,FreeThrow,80,Away
+50,Minnesota Timberwolves,FreeThrow,75.1,Away
+51,Chicago Bulls,FreeThrow,78.7,Away
+52,Memphis Grizzlies,FreeThrow,76,Away
+53,Milwaukee Bucks,FreeThrow,78.7,Away
+54,Charlotte Hornets,FreeThrow,77,Away
+55,Detriot Pistons,FreeThrow,77.6,Away
+56,Philadelphia 76ers,FreeThrow,76.9,Away
+57,Cleveland Cavaliers,FreeThrow,73.1,Away
+58,Los Angeles Lakers,FreeThrow,73.2,Away
+59,New York Knicks,FreeThrow,77.1,Away
+60,New Orleans Pelicans,FreeThrow,72.5,Away
+61,Phoenix Suns,Win,0.75,Home
+62,San Antonio Spurs,Win,0.389,Home
+63,Denver Nuggets,Win,0.694,Home
+64,Houston Rockets,Win,0.25,Home
+65,LA Clippers,Win,0.722,Home
+66,Washington Wizards,Win,0.528,Home
+67,Indiana Pacers,Win,0.361,Home
+68,Portland Trail Blazers,Win,0.556,Home
+69,Boston Celtics,Win,0.583,Home
+70,Toronto Raptors,Win,0.444,Home
+71,Oklahoma City Thunder,Win,0.278,Home
+72,Atlanta Hawks,Win,0.694,Home
+73,Orlando Magic,Win,0.306,Home
+74,Golden State Warriors,Win,0.694,Home
+75,Dallas Mavericks,Win,0.583,Home
+76,Miami Heat,Win,0.583,Home
+77,Utah Jazz,Win,0.861,Home
+78,Sacramento Kings,Win,0.444,Home
+79,Brooklyn Nets,Win,0.778,Home
+80,Minnesota Timberwolves,Win,0.361,Home
+81,Chicago Bulls,Win,0.417,Home
+82,Memphis Grizzlies,Win,0.5,Home
+83,Milwaukee Bucks,Win,0.722,Home
+84,Charlotte Hornets,Win,0.5,Home
+85,Detriot Pistons,Win,0.361,Home
+86,Philadelphia 76ers,Win,0.806,Home
+87,Cleveland Cavaliers,Win,0.361,Home
+88,Los Angeles Lakers,Win,0.583,Home
+89,New York Knicks,Win,0.694,Home
+90,New Orleans Pelicans,Win,0.5,Home
+91,Phoenix Suns,Win,0.667,Away
+92,San Antonio Spurs,Win,0.528,Away
+93,Denver Nuggets,Win,0.611,Away
+94,Houston Rockets,Win,0.222,Away
+95,LA Clippers,Win,0.583,Away
+96,Washington Wizards,Win,0.417,Away
+97,Indiana Pacers,Win,0.583,Away
+98,Portland Trail Blazers,Win,0.611,Away
+99,Boston Celtics,Win,0.417,Away
+100,Toronto Raptors,Win,0.306,Away
+101,Oklahoma City Thunder,Win,0.333,Away
+102,Atlanta Hawks,Win,0.444,Away
+103,Orlando Magic,Win,0.278,Away
+104,Golden State Warriors,Win,0.389,Away
+105,Dallas Mavericks,Win,0.583,Away
+106,Miami Heat,Win,0.528,Away
+107,Utah Jazz,Win,0.583,Away
+108,Sacramento Kings,Win,0.417,Away
+109,Brooklyn Nets,Win,0.556,Away
+110,Minnesota Timberwolves,Win,0.278,Away
+111,Chicago Bulls,Win,0.444,Away
+112,Memphis Grizzlies,Win,0.556,Away
+113,Milwaukee Bucks,Win,0.556,Away
+114,Charlotte Hornets,Win,0.417,Away
+115,Detriot Pistons,Win,0.194,Away
+116,Philadelphia 76ers,Win,0.556,Away
+117,Cleveland Cavaliers,Win,0.25,Away
+118,Los Angeles Lakers,Win,0.583,Away
+119,New York Knicks,Win,0.444,Away
+120,New Orleans Pelicans,Win,0.361,Away
+121,Phoenix Suns,FieldGoal,49.4,Home
+122,San Antonio Spurs,FieldGoal,46.3,Home
+123,Denver Nuggets,FieldGoal,48.2,Home
+124,Houston Rockets,FieldGoal,43.4,Home
+125,LA Clippers,FieldGoal,49,Home
+126,Washington Wizards,FieldGoal,48.3,Home
+127,Indiana Pacers,FieldGoal,46.6,Home
+128,Portland Trail Blazers,FieldGoal,44.6,Home
+129,Boston Celtics,FieldGoal,47.4,Home
+130,Toronto Raptors,FieldGoal,44.4,Home
+131,Oklahoma City Thunder,FieldGoal,44.8,Home
+132,Atlanta Hawks,FieldGoal,47.5,Home
+133,Orlando Magic,FieldGoal,43.5,Home
+134,Golden State Warriors,FieldGoal,48.5,Home
+135,Dallas Mavericks,FieldGoal,46.7,Home
+136,Miami Heat,FieldGoal,47.1,Home
+137,Utah Jazz,FieldGoal,47.2,Home
+138,Sacramento Kings,FieldGoal,49.5,Home
+139,Brooklyn Nets,FieldGoal,49.5,Home
+140,Minnesota Timberwolves,FieldGoal,44,Home
+141,Chicago Bulls,FieldGoal,46.9,Home
+142,Memphis Grizzlies,FieldGoal,45.1,Home
+143,Milwaukee Bucks,FieldGoal,49.1,Home
+144,Charlotte Hornets,FieldGoal,45.5,Home
+145,Detriot Pistons,FieldGoal,44.8,Home
+146,Philadelphia 76ers,FieldGoal,48.6,Home
+147,Cleveland Cavaliers,FieldGoal,46,Home
+148,Los Angeles Lakers,FieldGoal,47.9,Home
+149,New York Knicks,FieldGoal,46.3,Home
+150,New Orleans Pelicans,FieldGoal,48.1,Home
+151,Phoenix Suns,FieldGoal,48.7,Away
+152,San Antonio Spurs,FieldGoal,46.2,Away
+153,Denver Nuggets,FieldGoal,48.8,Away
+154,Houston Rockets,FieldGoal,45.3,Away
+155,LA Clippers,FieldGoal,47.4,Away
+156,Washington Wizards,FieldGoal,46.6,Away
+157,Indiana Pacers,FieldGoal,48.2,Away
+158,Portland Trail Blazers,FieldGoal,46,Away
+159,Boston Celtics,FieldGoal,45.8,Away
+160,Toronto Raptors,FieldGoal,45.2,Away
+161,Oklahoma City Thunder,FieldGoal,43.4,Away
+162,Atlanta Hawks,FieldGoal,46,Away
+163,Orlando Magic,FieldGoal,42.3,Away
+164,Golden State Warriors,FieldGoal,45.2,Away
+165,Dallas Mavericks,FieldGoal,47.4,Away
+166,Miami Heat,FieldGoal,46.6,Away
+167,Utah Jazz,FieldGoal,46.5,Away
+168,Sacramento Kings,FieldGoal,46.7,Away
+169,Brooklyn Nets,FieldGoal,49.3,Away
+170,Minnesota Timberwolves,FieldGoal,45.6,Away
+171,Chicago Bulls,FieldGoal,48.2,Away
+172,Memphis Grizzlies,FieldGoal,48.3,Away
+173,Milwaukee Bucks,FieldGoal,48.4,Away
+174,Charlotte Hornets,FieldGoal,45.4,Away
+175,Detriot Pistons,FieldGoal,45.5,Away
+176,Philadelphia 76ers,FieldGoal,46.6,Away
+177,Cleveland Cavaliers,FieldGoal,44,Away
+178,Los Angeles Lakers,FieldGoal,46.5,Away
+179,New York Knicks,FieldGoal,45,Away
+180,New Orleans Pelicans,FieldGoal,47.4,Away
+181,Phoenix Suns,3Point,38.8,Home
+182,San Antonio Spurs,3Point,35.9,Home
+183,Denver Nuggets,3Point,37.7,Home
+184,Houston Rockets,3Point,32.5,Home
+185,LA Clippers,3Point,42.4,Home
+186,Washington Wizards,3Point,34.3,Home
+187,Indiana Pacers,3Point,34.8,Home
+188,Portland Trail Blazers,3Point,37.5,Home
+189,Boston Celtics,3Point,37.7,Home
+190,Toronto Raptors,3Point,35.8,Home
+191,Oklahoma City Thunder,3Point,34.2,Home
+192,Atlanta Hawks,3Point,38.4,Home
+193,Orlando Magic,3Point,36.9,Home
+194,Golden State Warriors,3Point,38.5,Home
+195,Dallas Mavericks,3Point,35.9,Home
+196,Miami Heat,3Point,37.1,Home
+197,Utah Jazz,3Point,39.2,Home
+198,Sacramento Kings,3Point,38.1,Home
+199,Brooklyn Nets,3Point,39.2,Home
+200,Minnesota Timberwolves,3Point,34.5,Home
+201,Chicago Bulls,3Point,37.3,Home
+202,Memphis Grizzlies,3Point,34.9,Home
+203,Milwaukee Bucks,3Point,40.2,Home
+204,Charlotte Hornets,3Point,37.2,Home
+205,Detriot Pistons,3Point,35.2,Home
+206,Philadelphia 76ers,3Point,39,Home
+207,Cleveland Cavaliers,3Point,36.5,Home
+208,Los Angeles Lakers,3Point,34.1,Home
+209,New York Knicks,3Point,39.5,Home
+210,New Orleans Pelicans,3Point,34.9,Home
+211,Phoenix Suns,3Point,36.7,Away
+212,San Antonio Spurs,3Point,34.1,Away
+213,Denver Nuggets,3Point,37.6,Away
+214,Houston Rockets,3Point,35.3,Away
+215,LA Clippers,3Point,39.8,Away
+216,Washington Wizards,3Point,35.9,Away
+217,Indiana Pacers,3Point,37.8,Away
+218,Portland Trail Blazers,3Point,39.6,Away
+219,Boston Celtics,3Point,37,Away
+220,Toronto Raptors,3Point,37.8,Away
+221,Oklahoma City Thunder,3Point,33.6,Away
+222,Atlanta Hawks,3Point,36.2,Away
+223,Orlando Magic,3Point,31.5,Away
+224,Golden State Warriors,3Point,36.6,Away
+225,Dallas Mavericks,3Point,36.5,Away
+226,Miami Heat,3Point,34.5,Away
+227,Utah Jazz,3Point,38.6,Away
+228,Sacramento Kings,3Point,34.7,Away
+229,Brooklyn Nets,3Point,39.3,Away
+230,Minnesota Timberwolves,3Point,35.2,Away
+231,Chicago Bulls,3Point,36.6,Away
+232,Memphis Grizzlies,3Point,36.3,Away
+233,Milwaukee Bucks,3Point,37.5,Away
+234,Charlotte Hornets,3Point,36.7,Away
+235,Detriot Pistons,3Point,35,Away
+236,Philadelphia 76ers,3Point,35.6,Away
+237,Cleveland Cavaliers,3Point,30.7,Away
+238,Los Angeles Lakers,3Point,36.7,Away
+239,New York Knicks,3Point,38.9,Away
+240,New Orleans Pelicans,3Point,34.7,Away
+241,Phoenix Suns,OffensiveRating,117.1,Home
+242,San Antonio Spurs,OffensiveRating,109.9,Home
+243,Denver Nuggets,OffensiveRating,116.8,Home
+244,Houston Rockets,OffensiveRating,105.2,Home
+245,LA Clippers,OffensiveRating,118.5,Home
+246,Washington Wizards,OffensiveRating,112.1,Home
+247,Indiana Pacers,OffensiveRating,110,Home
+248,Portland Trail Blazers,OffensiveRating,116,Home
+249,Boston Celtics,OffensiveRating,114.5,Home
+250,Toronto Raptors,OffensiveRating,111.5,Home
+251,Oklahoma City Thunder,OffensiveRating,103.6,Home
+252,Atlanta Hawks,OffensiveRating,115.5,Home
+253,Orlando Magic,OffensiveRating,105.9,Home
+254,Golden State Warriors,OffensiveRating,114,Home
+255,Dallas Mavericks,OffensiveRating,113,Home
+256,Miami Heat,OffensiveRating,112.3,Home
+257,Utah Jazz,OffensiveRating,117.9,Home
+258,Sacramento Kings,OffensiveRating,114.2,Home
+259,Brooklyn Nets,OffensiveRating,116.6,Home
+260,Minnesota Timberwolves,OffensiveRating,108.3,Home
+261,Chicago Bulls,OffensiveRating,109.5,Home
+262,Memphis Grizzlies,OffensiveRating,109.5,Home
+263,Milwaukee Bucks,OffensiveRating,117.5,Home
+264,Charlotte Hornets,OffensiveRating,109.9,Home
+265,Detriot Pistons,OffensiveRating,107,Home
+266,Philadelphia 76ers,OffensiveRating,114.9,Home
+267,Cleveland Cavaliers,OffensiveRating,108,Home
+268,Los Angeles Lakers,OffensiveRating,110.1,Home
+269,New York Knicks,OffensiveRating,112.8,Home
+270,New Orleans Pelicans,OffensiveRating,113.5,Home
+271,Phoenix Suns,DefensiveRating,107.9,Home
+272,San Antonio Spurs,DefensiveRating,112.8,Home
+273,Denver Nuggets,DefensiveRating,110.6,Home
+274,Houston Rockets,DefensiveRating,113.4,Home
+275,LA Clippers,DefensiveRating,110.2,Home
+276,Washington Wizards,DefensiveRating,112,Home
+277,Indiana Pacers,DefensiveRating,112.6,Home
+278,Portland Trail Blazers,DefensiveRating,114.8,Home
+279,Boston Celtics,DefensiveRating,111.6,Home
+280,Toronto Raptors,DefensiveRating,110,Home
+281,Oklahoma City Thunder,DefensiveRating,115.6,Home
+282,Atlanta Hawks,DefensiveRating,109.4,Home
+283,Orlando Magic,DefensiveRating,114.9,Home
+284,Golden State Warriors,DefensiveRating,108.9,Home
+285,Dallas Mavericks,DefensiveRating,112.9,Home
+286,Miami Heat,DefensiveRating,111.8,Home
+287,Utah Jazz,DefensiveRating,105,Home
+288,Sacramento Kings,DefensiveRating,118.7,Home
+289,Brooklyn Nets,DefensiveRating,10.3,Home
+290,Minnesota Timberwolves,DefensiveRating,114.1,Home
+291,Chicago Bulls,DefensiveRating,111.6,Home
+292,Memphis Grizzlies,DefensiveRating,110,Home
+293,Milwaukee Bucks,DefensiveRating,109.8,Home
+294,Charlotte Hornets,DefensiveRating,110.2,Home
+295,Detriot Pistons,DefensiveRating,110,Home
+296,Philadelphia 76ers,DefensiveRating,106.4,Home
+297,Cleveland Cavaliers,DefensiveRating,114.4,Home
+298,Los Angeles Lakers,DefensiveRating,106.5,Home
+299,New York Knicks,DefensiveRating,108.4,Home
+300,New Orleans Pelicans,DefensiveRating,112.2,Home
+301,Phoenix Suns,OffensiveRating,115.5,Away
+302,San Antonio Spurs,OffensiveRating,111.2,Away
+303,Denver Nuggets,OffensiveRating,115.8,Away
+304,Houston Rockets,OffensiveRating,108.8,Away
+305,LA Clippers,OffensiveRating,114.9,Away
+306,Washington Wizards,OffensiveRating,109.3,Away
+307,Indiana Pacers,OffensiveRating,113.8,Away
+308,Portland Trail Blazers,OffensiveRating,118.3,Away
+309,Boston Celtics,OffensiveRating,111.7,Away
+310,Toronto Raptors,OffensiveRating,111.7,Away
+311,Oklahoma City Thunder,OffensiveRating,102,Away
+312,Atlanta Hawks,OffensiveRating,113.1,Away
+313,Orlando Magic,OffensiveRating,103.3,Away
+314,Golden State Warriors,OffensiveRating,106.9,Away
+315,Dallas Mavericks,OffensiveRating,116.3,Away
+316,Miami Heat,OffensiveRating,108.9,Away
+317,Utah Jazz,OffensiveRating,115.2,Away
+318,Sacramento Kings,OffensiveRating,111.2,Away
+319,Brooklyn Nets,OffensiveRating,118,Away
+320,Minnesota Timberwolves,OffensiveRating,110.2,Away
+321,Chicago Bulls,OffensiveRating,111.2,Away
+322,Memphis Grizzlies,OffensiveRating,113.8,Away
+323,Milwaukee Bucks,OffensiveRating,115.6,Away
+324,Charlotte Hornets,OffensiveRating,110.3,Away
+325,Detriot Pistons,OffensiveRating,108.2,Away
+326,Philadelphia 76ers,OffensiveRating,110,Away
+327,Cleveland Cavaliers,OffensiveRating,102.4,Away
+328,Los Angeles Lakers,OffensiveRating,109.5,Away
+329,New York Knicks,OffensiveRating,107.6,Away
+330,New Orleans Pelicans,OffensiveRating,112.4,Away
+331,Phoenix Suns,DefensiveRating,112.9,Away
+332,San Antonio Spurs,DefensiveRating,111.3,Away
+333,Denver Nuggets,DefensiveRating,112.3,Away
+334,Houston Rockets,DefensiveRating,115.4,Away
+335,LA Clippers,DefensiveRating,110.9,Away
+336,Washington Wizards,DefensiveRating,112.6,Away
+337,Indiana Pacers,DefensiveRating,111.2,Away
+338,Portland Trail Blazers,DefensiveRating,115.9,Away
+339,Boston Celtics,DefensiveRating,112,Away
+340,Toronto Raptors,DefensiveRating,114,Away
+341,Oklahoma City Thunder,DefensiveRating,111.2,Away
+342,Atlanta Hawks,DefensiveRating,114.8,Away
+343,Orlando Magic,DefensiveRating,112.8,Away
+344,Golden State Warriors,DefensiveRating,109.9,Away
+345,Dallas Mavericks,DefensiveRating,111.7,Away
+346,Miami Heat,DefensiveRating,109.6,Away
+347,Utah Jazz,DefensiveRating,110,Away
+348,Sacramento Kings,DefensiveRating,114.3,Away
+349,Brooklyn Nets,DefensiveRating,115.8,Away
+350,Minnesota Timberwolves,DefensiveRating,114.9,Away
+351,Chicago Bulls,DefensiveRating,111.4,Away
+352,Memphis Grizzlies,DefensiveRating,111,Away
+353,Milwaukee Bucks,DefensiveRating,111.6,Away
+354,Charlotte Hornets,DefensiveRating,113.8,Away
+355,Detriot Pistons,DefensiveRating,114.3,Away
+356,Philadelphia 76ers,DefensiveRating,107.7,Away
+357,Cleveland Cavaliers,DefensiveRating,112.6,Away
+358,Los Angeles Lakers,DefensiveRating,107.2,Away
+359,New York Knicks,DefensiveRating,107.1,Away
+360,New Orleans Pelicans,DefensiveRating,114.4,Home
