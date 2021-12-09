@@ -21,7 +21,7 @@ This table shows the difference between the average home game value and the aver
 
 | Win    	| FreeThrow 	| FieldGoal 	| ThreePoint 	|
 |--------	|-----------	|-----------	|------------	|
-| 0.087% 	| 0.093%    	| 0.39%     	| 0.707%     	|  
+| 8.7%  	| 0.093%    	| 0.39%     	| 0.707%     	|  
 
 
 <img src="Boxplots.png" width="850" height="780">
