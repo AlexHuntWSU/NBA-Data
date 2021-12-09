@@ -16,7 +16,7 @@ Data Sources:
 
 [Away Ratings](https://www.nba.com/stats/teams/advanced/?sort=W&dir=-1&Season=2020-21&SeasonType=Regular%20Season&Location=Road)
 
-This table shows the difference between the average home game value and the average away game value. On average, the teams performed better in all categories at home. Although relatively small, there does seem to be a home team advantage, at least for the 2020 - 2021 NBA season. The biggest takeaway would be the three point percentage which was 0.7% better at home games, which makes it the most affected by the home team advantage. Another interesting finding was how small the free throw percentage was. In away games, there is a lot more pressure from the other team's fans, however, this doesn't seem to be that much of a problem of players. This brings up the question of the effect fans have on the home team advantage.  
+This table shows the difference between the average home game value and the average away game value. On average, the teams performed better in all categories at home. Although relatively small, there does seem to be a home team advantage, at least for the 2020 - 2021 NBA season. The biggest takeaway would be the three point percentage which was 0.7% better at home games, which makes it the most affected by the home team advantage. Another interesting finding was how small the free throw percentage was. In away games, there is a lot more pressure from the other team's fans, however, this doesn't seem to be that much of a problem for players. This brings up the question of the effect fans have on the home team advantage.  
 
 
 | Win    	| FreeThrow 	| FieldGoal 	| ThreePoint 	|
