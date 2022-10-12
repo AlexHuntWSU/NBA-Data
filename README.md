@@ -26,8 +26,4 @@ This table shows the difference between the average home game value and the aver
 
 <img src="Boxplots.png" width="850" height="780">
 
-Using a simple correlation test, I found that the offensive rating had a 0.832 correlation coefficient and the defensive rating had a -0.377 correlation coefficient with the win% column. I created a column of the offesive skew, that is, how much greater is the teams offesive rating than their defensive rating. When plotted, I found that the teams with a greater offensive rating won more than teams with an even split of offense and defense.
-
-<img src="NBA Data Regression.png" width="850" height="780">
-
 
